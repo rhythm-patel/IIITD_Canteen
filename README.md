@@ -7,6 +7,6 @@ There is often a long queue in the canteen and one has to wait a long time and d
 This platform has a login system to make sure only authorised individuals can place order.
 The menu would be time sensitive i.e. various items will be shown when they are available at a particular time.
 
-This platform is implemented in DJANGO so it is fast flexible, reliable and optimised.
+This platform is implemented in DJANGO so it is fast, flexible, reliable and optimised.
 
 The web app is still under development.
