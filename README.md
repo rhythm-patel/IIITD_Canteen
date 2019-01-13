@@ -1,4 +1,4 @@
-# IIITDcanteen
+# IIITD_Canteen
 
 The website IIITD_Canteen is an effort by Rhythm Patel, addressing one of the most crucial problems which every hostler has to encounter at least once in a day which are: Queues.
 
